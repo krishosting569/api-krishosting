@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg"><img title="Author" src="https://img.shields.io/badge/Author-Lexxy Official-red.svg?style=for-the-badge&logo=youtube"></a>
-<a href="https://youtube.com/c/RonzzYT"><img title="Recode" src="https://img.shields.io/badge/Author-Ronzz YT-red.svg?style=for-the-badge&logo=youtube"></a>
+<a href="https://youtube.com/c/RonzzYT"><img title="Recode" src="https://img.shields.io/badge/Recode-Ronzz YT-red.svg?style=for-the-badge&logo=youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ronzz-Ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ronzz-Ofc?color=red&style=flat-square"></a>
